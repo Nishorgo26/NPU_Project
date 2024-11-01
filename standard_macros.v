@@ -1,4 +1,4 @@
-module counter_m # (
+/*module counter_m # (
     parameter FLOP_WIDTH = 2,
     parameter RESET_VALUE = 0
 )(
@@ -39,7 +39,7 @@ module counter_m # (
     end
 
 endmodule
-
+*/
 
 
 //                         +---- DFF With Reset ----+
@@ -75,6 +75,7 @@ module dff # (
 
 endmodule
 
+/*
 //                    +---- mux_4x1 ----+
 //                    |                 |
 //                    |                 |
@@ -452,3 +453,4 @@ module customized_fifo #(
     assign fifo_full  = fifo_en ? (wptr[FIFO_PTR_WIDTH-1:0] == rptr[FIFO_PTR_WIDTH-1:0]) && (wptr[FIFO_PTR_WIDTH] != rptr[FIFO_PTR_WIDTH]) : fifo_entry[0];
 
 endmodule
+*/

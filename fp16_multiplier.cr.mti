@@ -1,0 +1,57 @@
+/home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/fp32_multiplier.v {1 {vlog -work work -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/fp32_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fp32_multiplier
+
+Top level modules:
+	fp32_multiplier
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq_mnist.sv {1 {vlog -work work -sv -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq_mnist.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fm_seq_mnist
+
+Top level modules:
+	tb_fm_seq_mnist
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/standard_macros.v {1 {vlog -work work -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/standard_macros.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq_fa_mnist.sv {1 {vlog -work work -sv -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq_fa_mnist.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fm_seq_fa_mnist
+
+Top level modules:
+	tb_fm_seq_fa_mnist
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/fp16_multiplier.v {1 {vlog -work work -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/rtl/fp16_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fp16_multiplier
+
+Top level modules:
+	fp16_multiplier
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq.sv {1 {vlog -work work -sv -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_seq.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fm_seq
+
+Top level modules:
+	tb_fm_seq
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_err_chk.sv {1 {vlog -work work -sv -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_fm_err_chk.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fm_err_chk
+
+Top level modules:
+	tb_fm_err_chk
+
+} {} {}} /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_f32m_seq.sv {1 {vlog -work work -sv -stats=none /home/shammo/Documents/VLSI/fp16_multiplier/modelsim_dir/tb/tb_f32m_seq.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fm_seq
+
+Top level modules:
+	tb_fm_seq
+
+} {} {}}

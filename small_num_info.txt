@@ -1,0 +1,2 @@
+Max error: 5.762482
+Min error: -5.762482
