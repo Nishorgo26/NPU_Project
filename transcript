@@ -1,0 +1,12 @@
+# do project/regression.do
+# Loading project npu
+# vsim -quiet -c work.testbench "+INPUTFILE=binary_fp16_image_00001_7.txt" 
+# Start time: 22:56:45 on Mar 26,2024
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "../weights_h1.txt" for reading.
+# No such file or directory. (errno = ENOENT)    : C:/Users/Imran Khan/Documents/GitHub/NPU-project/tb/testbench_new.sv(223)
+#    Time: 0 ns  Iteration: 0  Instance: /testbench
+# Cannot find the hidden layer weight file
+# ** Note: $finish    : C:/Users/Imran Khan/Documents/GitHub/NPU-project/tb/testbench_new.sv(227)
+#    Time: 0 ns  Iteration: 0  Instance: /testbench
+# End time: 22:56:45 on Mar 26,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1

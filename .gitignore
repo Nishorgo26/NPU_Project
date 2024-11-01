@@ -1,0 +1,4 @@
+project/
+data/transcript
+data/regression_report.txt
+data/fifo_output.txt
